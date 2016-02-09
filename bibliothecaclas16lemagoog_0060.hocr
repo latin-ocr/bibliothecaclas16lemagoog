@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliothecaclas16lemagoog_0060.png"; bbox 0 0 2640 4822; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 342 1323 829 1435">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 342 1323 829 1435">
+     <span class='ocr_line' id='line_1_1' title="bbox 342 1323 829 1435; baseline -0.01 -1"><span class='ocrx_word' id='word_1_1' title='bbox 342 1326 557 1435; x_wconf 88' lang='lat' dir='ltr'><strong>JUSTI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 597 1323 829 1433; x_wconf 92' lang='lat' dir='ltr'>LIPSII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 114 1597 1073 1776">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 114 1597 1073 1776">
+     <span class='ocr_line' id='line_1_2' title="bbox 114 1597 1073 1776; baseline -0.013 1"><span class='ocrx_word' id='word_1_3' title='bbox 114 1597 1073 1776; x_wconf 86' lang='lat' dir='ltr'><strong>MANUDUCTIONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 257 2087 941 2164">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 257 2087 941 2164">
+     <span class='ocr_line' id='line_1_3' title="bbox 257 2087 941 2164; baseline -0.001 0"><span class='ocrx_word' id='word_1_4' title='bbox 257 2088 496 2164; x_wconf 82' lang='lat' dir='ltr'>STOICAM</span> <span class='ocrx_word' id='word_1_5' title='bbox 520 2087 941 2164; x_wconf 83' lang='lat' dir='ltr'>PHILOSOPHIAM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 177 2563 1026 2689">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 177 2563 1026 2689">
+     <span class='ocr_line' id='line_1_4' title="bbox 177 2563 1026 2689; baseline 0.004 -3"><span class='ocrx_word' id='word_1_6' title='bbox 177 2567 242 2686; x_wconf 91' lang='lat' dir='ltr'><strong>L.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 284 2563 616 2688; x_wconf 84' lang='lat' dir='ltr'><strong>ANNAEO</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 660 2564 1026 2689; x_wconf 84' lang='lat' dir='ltr'><strong>SENECAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 109 2850 1105 2941">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 109 2850 1105 2941">
+     <span class='ocr_line' id='line_1_5' title="bbox 109 2850 1105 2941; baseline 0.011 -26"><span class='ocrx_word' id='word_1_9' title='bbox 109 2850 338 2941; x_wconf 60' lang='lat' dir='ltr'><strong>ALllssQUE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 358 2850 717 2919; x_wconf 85' lang='lat' dir='ltr'><strong>SCRIPTORIBUS</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 737 2853 1105 2926; x_wconf 79' lang='lat' dir='ltr'><strong>lLLUSTRANDlS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1324 4822">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1324 4822">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1324 4822; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1324 4822; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
